@@ -1,0 +1,11 @@
+[package]
+name = "kvm_wrapper"
+version = "0.1.0"
+authors = ["Andreea Florescu <fandree@amazon.com>"]
+edition = "2018"
+
+[features]
+kvm-v4_14_0 = []
+kvm-v4_20_0 = []
+
+[dependencies]
