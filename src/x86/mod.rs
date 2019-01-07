@@ -1,3 +1,6 @@
+// Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(feature = "kvm-v4_14_0")]
 mod bindings_v4_14_0;
 #[cfg(feature = "kvm-v4_20_0")]
