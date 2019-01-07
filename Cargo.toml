@@ -3,6 +3,12 @@ name = "kvm_wrapper"
 version = "0.1.0"
 authors = ["Amazon firecracker team <firecracker-devel@amazon.com>"]
 edition = "2018"
+description = "Rust FFI bindings to KVM generated using bindgen."
+repository = "https://github.com/andreeaflorescu/kvm_wrapper"
+readme = "README.md"
+keywords = ["kvm"]
+license = "Apache-2.0"
+license-file = "LICENSE"
 
 [features]
 kvm-v4_14_0 = []
