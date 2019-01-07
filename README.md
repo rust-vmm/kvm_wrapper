@@ -5,6 +5,7 @@ following target architectures:
 - x86
 - x86_64
 - arm
+- arm64
 
 # Usage
 First, add the following to your `Cargo.toml`:

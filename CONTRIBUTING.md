@@ -4,7 +4,7 @@
 
 ### Bindgen
 The wrappers are currently generated using
-[bindgen](https://crates.io/crates/bindgen) version 0.46.0
+[bindgen](https://crates.io/crates/bindgen) version 0.46.0:
 ```bash
 cargo install bindgen --vers 0.46.0
 ```
@@ -66,6 +66,6 @@ cp arm/mod.rs arm64/
 
 Also, you will need to add the new architecture to `kvm_wrappers/lib.rs`.
 
-# TODO
+# Future Improvements
 All the above steps are scriptable, so in the next iteration I will add a
 script to generate the bindings.
