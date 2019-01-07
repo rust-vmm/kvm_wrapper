@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/andreeaflorescu/kvm_wrapper.svg?branch=master)](https://travis-ci.com/andreeaflorescu/kvm_wrapper)
 # kvm_wrapper
 Rust FFI bindings to KVM generated using
 [bindgen](https://crates.io/crates/bindgen). It currently has support for the
