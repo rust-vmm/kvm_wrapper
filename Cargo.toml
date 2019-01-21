@@ -9,6 +9,8 @@ readme = "README.md"
 keywords = ["kvm"]
 license = "Apache-2.0"
 
+[badges]
+maintenance = { status = "deprecated" }
 [features]
 kvm-v4_14_0 = []
 kvm-v4_20_0 = []
