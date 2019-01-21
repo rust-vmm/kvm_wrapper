@@ -1,6 +1,6 @@
 [package]
 name = "kvm_wrapper"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Amazon firecracker team <firecracker-devel@amazon.com>"]
 edition = "2018"
 description = "Rust FFI bindings to KVM generated using bindgen."
